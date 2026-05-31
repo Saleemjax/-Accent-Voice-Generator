@@ -1,0 +1,5 @@
+Flask
+Flask-Limiter
+edge-tts
+gunicorn
+nest_asyncio
